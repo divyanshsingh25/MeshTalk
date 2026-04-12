@@ -15,6 +15,6 @@ Thumbs.db
 # IDE files
 *.cpp
 *.h
-*.ino
+
 # Data folder (if not needed in repo)
 /data/
